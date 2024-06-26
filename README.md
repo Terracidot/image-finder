@@ -1,6 +1,6 @@
 # mx-finder
-### Short script that cycles through a list of images and beeps if one of them appears on screen.
 ### Designed specifically for a game called Total Battle to help find a Mercenary Exchange on the world map.
+### Short script that cycles through a list of images and beeps if one of them appears on screen.
 ### Only works on 1080p resolution due to the specific dimentions of the included images.
 
 # varibles
